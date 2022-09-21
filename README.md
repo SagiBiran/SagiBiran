@@ -2,7 +2,7 @@
 <h3 align="center">4th Year Software Engineering Student specialized in Cyber Security. I’m an Analytical and Detail-Oriented developer with the ability to work independently and within groups.</h3>
 
 - 👨‍💻 All of my projects are available below ⬇️
-- 📫 How to reach me **sagibit@gmail.com**
+- 📫 You can reach me on **sagibit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
