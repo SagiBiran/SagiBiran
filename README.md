@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sagi Biran</h1>
-<h3 align="center">4th Year Software Engineering Student specialized in Cyber Security. I’m an Analytical and Detail-Oriented developer with the ability to work independently and within groups.</h3>
+<h3 align="center"> B.Sc. In Software Engineering | Network Operations Center Engineer at Teridion
+</h3>
 
 - 👨‍💻 All of my projects are available below ⬇️
 - 📫 You can reach me on **sagibit@gmail.com**
