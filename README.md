@@ -4,7 +4,6 @@
 </h3>
 
 - 👨‍💻 All of my projects are available below ⬇️
-- 📫 You can reach me on **sagibit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
