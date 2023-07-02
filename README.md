@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sagi Biran</h1>
-<h3 align="center"> B.Sc. In Software Engineering | Network Operations Center Engineer at Teridion
+<h3 align="center"> B.Sc. In Software Engineering,
+  I am currently employed as a Network Operations Center Engineer at Teridion,Ra'ananna, Central Israel.
 </h3>
 
 - 👨‍💻 All of my projects are available below ⬇️
