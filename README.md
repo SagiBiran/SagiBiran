@@ -3,7 +3,7 @@
   Currently employed as a NOC Engineer at Teridion, Ra'ananna, Israel.
 </h3>
 
-- 👨‍💻 All of my projects are available below ⬇️
+- 👨‍💻 My projects can be accessed below ⬇️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
