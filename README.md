@@ -5,4 +5,4 @@
 
 - My professional profile can be found on <a href="https://www.linkedin.com/in/sagi-biran/">LinkedIn</a>
 - My personal projects can be accessed below ⬇️
-- The README file, which outlines my final project, is accessible. <a href="https://github.com/SagiBiran/CarRace">here</a>
+- A README file, which outlines my final project on collage, is accessible. <a href="https://github.com/SagiBiran/CarRace">here</a>
