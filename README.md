@@ -3,5 +3,9 @@
   Currently employed as a NOC Engineer at Teridion, Ra'ananna, Israel.
 </h3>
 
-- 👨‍💻 My projects can be accessed below ⬇️
 - My professional profile can be found on <a href="https://www.linkedin.com/in/sagi-biran/">LinkedIn</a>
+- My projects can be accessed below ⬇️
+
+
+
+
