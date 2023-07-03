@@ -4,7 +4,7 @@
 </h3>
 
 - My professional profile can be found on <a href="https://www.linkedin.com/in/sagi-biran/">LinkedIn</a>
-- My projects can be accessed below ⬇️
+- My personal projects can be accessed below ⬇️
 
 
 
