@@ -3,7 +3,7 @@
 
 - 👨‍💻 My projects can be accessed below ⬇️
 - My professional profile can be found on LinkedIn
-<p align="right">
+<p align="left">
   <a href="https://linkedin.com/in/sagi-biran-6b04b2206" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagi-biran-6b04b2206" height="30" width="40"/>
   </a>
