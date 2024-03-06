@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagi Biran</h1>
-<h3 align="center"> B.Sc. In Software Engineering,
+<h3 align="center"> B.Sc In Software Engineering,
   Currently employed as a NOC Engineer at Teridion, Ra'ananna, Israel.
 </h3>
 
